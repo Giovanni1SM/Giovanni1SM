@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Giovanni1SM
+- 👀 I’m interested in JavaScript C++ python
+- 🌱 I’m currently learning JavaScript
